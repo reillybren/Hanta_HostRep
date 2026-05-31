@@ -1,0 +1,39 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=31 nchar=15;
+Format datatype=Standard symbols="012" missing=? gap=-;
+Matrix
+anjozorobe        000000020000002
+thailand          000000220000000
+jurong            000000020000000
+serang            000000020000000
+lanka             000000000200000
+seoul             000000020200220
+tchoupitoulas     000000020000000
+dobrava-belgrade  000000000200200
+saaremaa          000000000000200
+sochi             000000000000200
+sangassou         000000000020000
+amur              000000000000200
+soochong          000000000000200
+hantaan           000000022000200
+bruges            200000000000000
+tigray            000000000002000
+artybash          000002000000000
+seewis            000002000000000
+asikkala          000002000000000
+kenkeme           000002000000000
+quiandao_lake     000002000000000
+yakeshi           000002000000000
+asama             020000000000000
+jemez_springs     000002000000000
+oxbow             002000000000000
+ash_river         000002000000000
+cao_bang          000020000000000
+lianghe           000020000000000
+xinyi             000020000000000
+bowe              000200000000000
+jeju              000200000000000
+;
+End;
