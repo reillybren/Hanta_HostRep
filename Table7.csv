@@ -1,0 +1,28 @@
+﻿Table S5. Host Repertoire Evolution Model Statistics. Posterior median estimates and 95% highest posterior density (HPD) intervals from Bayesian host repertoire evolution analyses. Gain and loss rates are proportional contributions to the overall rate μ. β = phylogenetic distance effect parameter; % > 0 = percentage of posterior density above zero. Expected events = μ × total tree branch length. BF = Bayes factor for phylogenetic-distance model (M_D) over independence model (M_0).,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Dataset,"Model
+states","Host tree
+(distance)","β
+median","β
+95% HPD","μ
+median","μ
+95% HPD","Gain rate
+median","Gain rate
+95% HPD","Loss rate
+median","Loss rate
+95% HPD",BF,"Tree
+length","Expected
+events","Events
+95% HPD",,
+NSO,,,,,,,,,,,,,,,,
+NSO,2-state,Cladogenic,1.0863,"[0.1928, 1.8966]",7.260 × 10⁻3,"[4.780e-03, 1.020e-02]",0.0800 (0→2),"[0.0480, 0.1180]",0.9200 (2→0),"[0.8820, 0.9520]",9.84,3271.6,23.75,"[15.6300, 33.4500]",,
+NSO,2-state,Time-calibrated,0.166,"[0.0000, 0.4974]",7.150 × 10⁻3,"[4.740e-03, 9.990e-03]",0.0884 (0→2),"[0.0555, 0.1274]",0.9116 (2→0),"[0.8726, 0.9445]",0.31,3271.6,23.41,"[15.5100, 32.7000]",,
+NSO,3-state,Cladogenic,0.8395,"[0.1100, 1.4253]",0.0453,"[2.600e-02, 7.930e-02]",0.0328(0→1); 0.0462 (1→2),"[0.0206, 0.0464]; [0.0069, 0.1036]",0.7836 (1→0); 0.1322(2→1),"[0.6707, 0.8907]; [0.0578, 0.2207]",6.26,3271.6,148.19,"[85.1700, 259.5500]",,
+NSO,3-state,Time-calibrated,0.1129,"[0.0001, 0.3495]",0.0433,"[2.640e-02, 6.790e-02]",0.0330 (0→1); 0.078 (1→2),"[0.0200, 0.0465]; [0.0239, 0.1495]",0.7443 (1→0); 0.1408(2→1),"[0.6306, 0.8540]; [0.0726, 0.2237]",0.21,3271.6,141.57,"[86.5000, 222.1900]",,
+MEO,,,,,,,,,,,,,,,,
+MEO,2-state,Cladogenic,0.5415,"[0.0010, 1.3351]",3.510 × 10⁻3,"[2.220e-03, 5.030e-03]",0.0720 (0→2),"[0.0366, 0.1153]",0.9280 (2→0),"[0.8847, 0.9634]",1.13,6112.5,21.48,"[13.5400, 30.7400]",,
+MEO,2-state,Time-calibrated,0.2726,"[0.0005, 0.8678]",3.560 × 10⁻3,"[2.270e-03, 5.140e-03]",0.0759 (0→2),"[0.0401, 0.1193]",0.9241 (2→0),"[0.8807, 0.9599]",0.49,6112.5,21.73,"[13.8600, 31.4000]",,
+,,,,,,,,,,,,,,,,
+"For 3-state models, additional transition rates between potential (state 1) and actual host (state 2):",,,,,,,,,,,,,,,,
+  New World · 3-state · Cladogenic,,,"1→2 gain: 0.0462 [0.0069, 0.1036]",,,"2→1 loss: 0.1322 [0.0578, 0.2207]",,,,,,,,,,
+  New World · 3-state · Time-calibrated,,,"1→2 gain: 0.0780 [0.0239, 0.1495]",,,"2→1 loss: 0.1408 [0.0726, 0.2237]",,,,,,,,,,

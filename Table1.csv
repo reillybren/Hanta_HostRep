@@ -1,0 +1,218 @@
+﻿Order,Family,Host,Hantavirus (Name in paper),Scientific Name,ICTV,NewOld,Year,Ssegment,Msegment,Lsegment,In Millholand review?,References
+Chiroptera,Phyllostomidae,Anoura caudifer,Araquara-like,Orthohantavirus andesense,Yes,new,2007,EF571895.1,,,Yes,de Araujo et al. (2012)
+Chiroptera,Phyllostomidae,Diphylla ecaudata,Araquara-like,Orthohantavirus andesense,Yes,new,2007,EF571895.1,,,Yes,de Araujo et al. (2012)
+Chiroptera,Vespertilionidae,Pipistrellus abramus,Huangpi,other orthohantavirus,No,old,2016,OQ715448.1,OQ715450.1,OQ715449.1,Yes,Guo et al. (2013)
+Chiroptera,Nycteridae,Nycteris hispida,Magboi,other orthohantavirus,No,old,,,,,Yes,Weiss et al. (2012)
+Chiroptera,Vespertilionidae,Neoromicia nanus,Mouyassue,other orthohantavirus,No,,2011,,,JQ287716.2,Yes,Sumibcay et al. (2012)
+Didelphomorphia,Didelphidae,Micoureus paraguayanus,Araquara-like,Orthohantavirus andesense,Yes,new,2007,EF571895.1,,,Yes,de Araujo et al. (2012)
+Didelphomorphia,Didelphidae,Monodelphis iheringi,Araquara-like,Orthohantavirus andesense,Yes,new,2007,EF571895.1,,,Yes,de Araujo et al. (2012)
+Didelphomorphia,Didelphidae,Didelphis aurita,Araquara-like,Orthohantavirus andesense,Yes,new,2007,EF571895.1,,,Yes,de Araujo et al. (2012)
+Rodentia,Cricetidae,Eothenomys eleusis,Fugong,Orthohantavirus fugongense,Yes,old,2012,KT899701.1,KT899702.1,KT899703.1,No,Ge et al 2016
+Rodentia,Muridae,Mus booduga,Lanka,Orthohantavirus lankaense,yes,old,2019,LC553731.1,LC553726.1,LC553730.1,No,Muthusinghe et al 2025 
+Rodentia,Cricetidae,Oligoryzomys longicaudatus,Oran,Orthohantavirus andesense,Yes,new,1992,AF482715.1,AF028024.1,,No,"Levis, S. et al 1998"
+Rodentia,Cricetidae,Sigmodon hispidus,Ozark,Orthohantavirus ozarkense,Yes,new,2020,PP434907.1,PP434908.1,PP434892.1,No,Mull et al 2023 
+Rodentia,Cricetidae,Microtus ochrogaster,Sager Creek,Orthohantavirus sagercreekense,Yes,new,2021,PP905729.1,PP905725.1,PP905726.1,No,Mull et al 2025
+Rodentia,Cricetidae,Microtus agrestis,Tatenale,Orthohantavirus tatenalense,Yes,old,2014,MK883756.1,MK883758.1,MK883760.1,No,Chappell et al 2020 
+Rodentia,Cricetidae,Eothenomys melanogaster,Wufeng rodent ,Orthohantavirus wufangense,Yes,old,2016,OM030313.1,OM030312.1,OM030311.1,No,Chen et al  2023 
+Rodentia,Cricetidae,Holochilus chararius,Alto Paraguay,other orthohantavirus,No,new,1996,DQ345762,AY515597,,Yes,"Chu et al. (2003), (2006)"
+Rodentia,Muridae,Apodemus peninsulae,Amur ,Orthohantavirus hantanense,Yes,old,1982,KC136244.1,KC136243.1,KC136242.1,Yes,"Yashina et al. (2000, 2001), Baek et al. (2006), Jiang et al. (2007)"
+Rodentia,Cricetidae,Oligoryzomys fornesi,Anajatuba ,Orthohantavirus mamorense,Yes,new,2005,DQ451829.1,,,Yes,"Rosa et al. (2005), Chu et al. (2009), Guterres et al. (2014)"
+Rodentia,Cricetidae,Calomys tener,Andes,Orthohantavirus andesense,Yes,new,1997,AF291702.1,AF291703.2,AF291704.5,Yes,"Figueiredo et al. (2010), Luis et al. (2013)"
+Rodentia,Cricetidae,Juliomys sp.,Andes,Orthohantavirus andesense,Yes,new,1997,AF291702.1,AF291703.2,AF291704.5,Yes,Araujo et al. (2011)
+Rodentia,Cricetidae,Loxodontomys micropus,Andes,Orthohantavirus andesense,Yes,new,1997,AF291702.1,AF291703.2,AF291704.5,Yes,"Medina et al. 2009, Luis et al. (2010)"
+Rodentia,Cricetidae,Neacomys spinosus,Andes-like,Orthohantavirus andesense,Yes,new,,AF291702.1,AF291703.2,AF291704.5,Yes,Razuri et al. (2014)
+Rodentia,Cricetidae,Oligoryzomys chacoensis,Andes,Orthohantavirus andesense,Yes,new,1997,AF291702.1,AF291703.2,AF291704.5,Yes,"Levis et al. (1997, 1998, 2004), Gonzalez Della Valle et al. (2002),Chu et al. (2003)"
+Rodentia,Cricetidae,Oligoryzomys flavescens,Andes,Orthohantavirus andesense,Yes,new,1997,AF291702.1,AF291703.2,AF291704.5,Yes,"Levis et al. (1998), Gonzalez Della Valle et al. (2002), Delfraro et al. (2003)"
+Rodentia,Cricetidae,Oligoryzomys longicaudatus,Andes,Orthohantavirus andesense,Yes,new,1997,AF291702.1,AF291703.2,AF291704.5,Yes,"López et al. (1996), Levis et al. (1998), Bohlman et al. (2002), Meissner et al. (2002)"
+Rodentia,Cricetidae,Thapthomys nigrita, Andes,Orthohantavirus andesense,Yes,new,1997,AF291702.1,AF291703.2,AF291704.5,Yes,"Araujo et al. (2011), de Araujo et al. (2012)"
+Rodentia,Muridae,Rattus norvegicus,Andes,Orthohantavirus andesense,Yes,new,1997,AF291702.1,AF291703.2,AF291704.5,Yes,"Lee et al. (1982a, b, c), Tsai et al. (1985), Reynes et al. (2003), Heyman et al. (2004, 2009) Plyusnina et al. (2004), Fernández et al. (2008), Luis et al. (2010), Luan et al. (2012), Jameson et al. (2013), Cross et al. (2014), Dupinay et al. (2014), Verner-Carlsson et al. (2015)"
+Rodentia,Muridae,Rattus rattus,Andes,Orthohantavirus andesense,Yes,new,1997,AF291702.1,AF291703.2,AF291704.5,Yes,"Elwell et al. (1985) Wang et al. (2000), Reynes et al. (2003, 2014), Medina et al. (2009), Johansson et al. (2010), Luis et al. (2010), Zhang et al. (2007), (2010)"
+Rodentia,Muridae,Rattus rattus,Anjozorobe,Orthohantavirus thailandense,Yes,old,2008,KC490918.1,KC490919.1,KC490922.1,Yes,"Elwell et al. (1985) Wang et al. (2000), Reynes et al. (2003, 2014), Medina et al. (2009), Johansson et al. (2010), Luis et al. (2010), Zhang et al. (2007), (2010)"
+Rodentia,Nesomyidae,Eliurus majori,Anjozorobe,Orthohantavirus thailandense,Yes,old,2008,KC490918.1,KC490919.1,KC490922.1,Yes,Reynes et al. (2014)
+Rodentia,Cricetidae,Akodon montensis,Ape Aime-Itapua,other orthohantavirus,No,new,2003,GU205340.1,,,Yes,"Chu et al. (2006), Goodin et al. (2009), Raboni et al. (2009, 2012), Araujo et al. (2011), de Oliveira et al. (2011), Guterres et al. (2014)"
+Rodentia,Cricetidae,Oligoryzomys nigripes,Itapúa,other orthohantavirus,No,new,,GU205340.1,,,Yes,"Vasconcelos et al. (1997), Chu et al. (2003), Suzuki et al. (2004), Raboni et al. (2005), (2009), Padula et al. (2007), Delfraro et al. (2008), Vadell et al. (2011), de Araujo et al. (2012)"
+Rodentia,Cricetidae,Thapthomys nigrita,Araquara-like ,Orthohantavirus andesense,Yes,new,2007,EF571895.1,,,Yes,"Araujo et al. (2011), de Araujo et al. (2012)"
+Rodentia,Cricetidae,Necromys lasiurus,Araraquara ,Orthohantavirus andesense,Yes,new,1996,AF307325.1,AF307327.1,,Yes,"Johnson et al. (1999), Suzuki et al. (2004), Figueiredo et al. (2009)"
+Rodentia,Cricetidae,Akodon montensis, Araucaria,other orthohantavirus,No,new,2002,AY740624.1,,,Yes,"Chu et al. (2006), Goodin et al. (2009), Raboni et al. (2009, 2012), Araujo et al. (2011), de Oliveira et al. (2011), Guterres et al. (2014)"
+Rodentia,Cricetidae,Akodon paranaensis,Aracuacaria,other orthohantavirus,No,new,2002,AY740624.1,,,Yes,"de Oliveira et al. (2012), Raboni et al. (2012), Guterres et al. (2014)"
+Rodentia,Cricetidae,Oligoryzomys nigripes,Araucária,other orthohantavirus,No,new,2002,AY740624.1,,,Yes,"Vasconcelos et al. (1997), Chu et al. (2003), Suzuki et al. (2004), Raboni et al. (2005), (2009), Padula et al. (2007), Delfraro et al. (2008), Vadell et al. (2011), de Araujo et al. (2012)"
+Rodentia,Cricetidae,Oxymycterus quaestor,Araucaria ,other orthohantavirus,No,new,2002,AY740624.1,,,Yes,"Raboni et al. (2012), Guterres et al. (2014)"
+Rodentia,Cricetidae,Oryzomys palustris,Bayou,Orthohantavirus bayoui,Yes,new,1995,L36929.1,L36930.1,GQ244526.1,Yes,"Khan et al. (1995), Morzunov et al. (1995), Torrez-Martinez et al. (1998)"
+Rodentia,Cricetidae,Sigmodon hispidus,Bayou,Orthohantavirus bayoui,Yes,new,1995,L36929.1,L36930.1,GQ244526.1,Yes,"Ravkov et al. (1995), Rollin et al. (1995), Rawlings et al. (1996), Torrez-Martinez et al. (1998)"
+Rodentia,Cricetidae,Oligoryzomys chacoensis, Bermejo ,Orthohantavirus andesense,No,new,1997,AF482713.1,AF028025.1,,Yes,"Levis et al. (1997, 1998, 2004), Gonzalez Della Valle et al. (2002),Chu et al. (2003)"
+Rodentia,Cricetidae,Sigmodon hispidus, Black Creek Canal ,Orthohantavirus nigrorivense,Yes,new,1993,L39949.1,L39950.1,L39951.1,Yes,"Ravkov et al. (1995), Rollin et al. (1995), Rawlings et al. (1996), Torrez-Martinez et al. (1998)"
+Rodentia,Cricetidae,Microtus ochrogaster,Bloodland Lake,Orthohantavirus prospectense,No,new,1995,U19303,,,Yes,Hjelle et al. (1995b)
+Rodentia,Cricetidae,Peromyscus leucopus,Blue River,Orthohantavirus sinnombreense,Yes,new,2005,DQ090888.1,AF030551.1,,Yes,"Hjelle et al. (1995c), Morzunov et al. (1998), Rhodes et al. (2000), Kariwa et al. (2007), Milazzo et al. (2012)"
+Rodentia,Cricetidae,Oligoryzomys fulvescens,Calabazo,other orthohantavirus,No,new,1999,AF395443.1,AF402331.1,,Yes,"Levis et al. 1997, Vincent et al. (2000), Enria et al. (2001), Delfraro et al. (2003), Fulhorst et al. (2004), Salazar-Bravo et al. (2004), Armién et al. (2009), Hanson et al. (2011), de Thoisy et al. (2014), González-Ittig et al. (2014)"
+Rodentia,Cricetidae,Zygodontomys brevicauda,Calabazo,other orthohantavirus,No,new,1999,AF395443.1,AF402331.1,,Yes,"Vincent et al. (2000) Salazar-Bravo et al. (2004), Armién et al. (2009) Londoño et al. (2011)j, de Thoisy et al. (2014)"
+Rodentia,Cricetidae,Sigmodon alstoni,Caño Delgadito ,Orthohantavirus delgaditoense,Yes,new,2001,DQ285566.1,DQ284451.1,GQ200821.1,Yes,"Fulhorst et al. (1997), Milazzo et al. (2010)"
+Rodentia,Cricetidae,Peromyscus megalops,Carrizal,Orthohantavirus carrizalense,Yes,new,2006,AB620103.1,AB620104.1,AB620105.1,Yes,Saasa et al. (2012)
+Rodentia,Cricetidae,Reithrodontomys sumichrasti,Carrizal ,Orthohantavirus carrizalense,Yes,new,2006,AB620103.1,AB620104.1,AB620105.1,Yes,"Salazar-Bravo et al. (2004), Kariwa et al. (2012)"
+Rodentia,Cricetidae,Oligoryzomys eliurus,Castelo dos Sonhos,Orthohantavirus andesense,Yes,new,2009,KF581134.1,KF581135.1,KF581136.1,Yes,"Johnson et al. (1999), Firth et al. (2012)"
+Rodentia,Cricetidae,Oryzomys couesi,Catacamas ,other orthohantavirus,No,new,2001,DQ285566.1,DQ177347.1,FJ858378.1,Yes,"Milazzo et al. (2006), Chu et al. (2008)"
+Rodentia,Cricetidae,Oligoryzomys flavescens, Central Plata ,Orthohantavirus andesense,Yes,new,1997,AY204677,,,Yes,"Levis et al. (1998), Gonzalez Della Valle et al. (2002), Delfraro et al. (2003)"
+Rodentia,Cricetidae,Oligoryzomys fulvescens, Choclo,Orthohantavirus chocloense,Yes,new,2000,KT983771.1,KT983772.1,KT983773.1,Yes,"Levis et al. 1997, Vincent et al. (2000), Enria et al. (2001), Delfraro et al. (2003), Fulhorst et al. (2004), Salazar-Bravo et al. (2004), Armién et al. (2009), Hanson et al. (2011), de Thoisy et al. (2014), González-Ittig et al. (2014)"
+Rodentia,Cricetidae,Zygodontomys brevicauda, Choclo,Orthohantavirus chocloense,Yes,new,2000,KT983771.1,KT983772.1,KT983773.1,Yes,"Vincent et al. (2000) Salazar-Bravo et al. (2004), Armién et al. (2009) Londoño et al. (2011)j, de Thoisy et al. (2014)"
+Rodentia,Cricetidae,Microtus californicus,Convict Creek,Orthohantavirus sinnombreense,Yes,new,1983,L33683.1,L33684.1,,Yes,"Song et al. (1995), Turell et al. (1995)"
+Rodentia,Cricetidae,Peromyscus maniculatus,Convict Creek,Orthohantavirus sinnombreense,Yes,new,1983,L33683.1,L33684.1,,Yes,"Childs et al. (1994), Schmaljohn et al. (1995), Rawlings et al. (1996), Song et al. (1996), Drebot et al. (2001), Sinclair et al. (2007)"
+Rodentia,Sciuridae,Tamias minimus,Convict Creek,Orthohantavirus sinnombreense,Yes,new,1983,L33683.1,L33684.1,,Yes,Turell et al. (1995)
+Rodentia,Muridae,Niviventer confucianus,Da Bie Shan ,Orthohantavirus dabieshanense,Yes,old,2008,JF796043.1,JF796036.1,JF796022.1,Yes,Wang et al. (2000)
+Rodentia,Muridae,Apodemus agrarius,Dobrava-Belgrade,Orthohantavirus dobravaense,Yes,old,1999,AJ410615.1,AJ410616.1,AJ410617.1,Yes,"Lee et al. (1978, 1982a, b), Plyusnin et al. (1997, 2003), Nemirov et al. (1999), Klempa et al. (2003b), Sironen et al. (2005), Plyusnin et al. (2006), Jakab et al. (2007), Li et al. (2007), Schlegel et al. (2009), Liu et al. (2012), Klempa et al. (2013)"
+Rodentia,Muridae,Apodemus flavicollis,Dobrava-Belgrade,Orthohantavirus dobravaense,Yes,old,1999,AJ410615.1,AJ410616.1,AJ410617.1,Yes,"Avšić-Županc et al. (1992), Klempa et al. (2003b), Jakab et al. (2007), Schlegel et al. (2009), Schmidt et al. (2014)"
+Rodentia,Muridae,Apodemus ponticus,Dobrava-Belgrade ,Orthohantavirus dobravaense,Yes,old,1999,AJ410615.1,AJ410616.1,AJ410617.1,Yes,"Klempa et al. (2008), Dzagurova et al. (2012)"
+Rodentia,Muridae,Apodemus sylvaticus,Dobrava-Belgrade,Orthohantavirus dobravaense,Yes,old,1999,AJ410615.1,AJ410616.1,AJ410617.1,Yes,Weidmann et al. (2005)
+Rodentia,Muridae,Mus musculus,Dobrava-Belgrade,Orthohantavirus dobravaense,Yes,old,1999,AJ410615.1,AJ410616.1,AJ410617.1,Yes,"Baek et al. (1988), Arthur et al. (1992) Childs et al. (1994), Weidmann et al. (2005), Jiang et al. (2008)"
+Rodentia,Cricetidae,Microtus montanus,El Moro Canyon,Orthohantavirus moroense,No,new,1994,U11427.1,U26828.1,,Yes,Rowe et al. (1995)
+Rodentia,Cricetidae,Neotoma mexicana,El Moro Canyon,Orthohantavirus moroense,No,new,1994,U11427.1,U26828.1,,Yes,Hjelle et al. (1994)
+Rodentia,Cricetidae,Peromyscus maniculatus, El Moro Canyon,Orthohantavirus moroense,No,new,1994,U11427.1,U26828.1,,Yes,"Childs et al. (1994), Schmaljohn et al. (1995), Rawlings et al. (1996), Song et al. (1996), Drebot et al. (2001), Sinclair et al. (2007)"
+Rodentia,Cricetidae,Reithrodontomys megalotis,El Moro Canyon,Orthohantavirus moroense,No,new,1994,U11427.1,U26828.1,,Yes,"Hjelle et al. (1994, 1995a), Kariwa et al. (2012)"
+Rodentia,Muridae,Rattus rattus, Guo,Orthohantavirus seoulense,Yes,old,2011,,KC344269.1,KC344252.1,Yes,"Elwell et al. (1985) Wang et al. (2000), Reynes et al. (2003, 2014), Medina et al. (2009), Johansson et al. (2010), Luis et al. (2010), Zhang et al. (2007), (2010)"
+Rodentia,Muridae,Apodemus agrarius, Hantaan,Orthohantavirus hantanense,Yes,old,1986,M14626.1,M14627.1,X55901.1,Yes,"Lee et al. (1978, 1982a, b), Plyusnin et al. (1997, 2003), Nemirov et al. (1999), Klempa et al. (2003b), Sironen et al. (2005), Plyusnin et al. (2006), Jakab et al. (2007), Li et al. (2007), Schlegel et al. (2009), Liu et al. (2012), Klempa et al. (2013)"
+Rodentia,Muridae,Niviventer confucianus, Hantaan,Orthohantavirus hantanense,Yes,old,1986,M14626.1,M14627.1,X55901.1,Yes,Wang et al. (2000)
+Rodentia,Muridae,Rattus tanezumi,Hantaan,Orthohantavirus hantanense,Yes,old,1986,M14626.1,M14627.1,X55901.1,Yes,"Chin et al. (2000)m, Plyusnina et al. (2009b), Johansson et al. (2010), Blasdell et al. (2011)"
+Rodentia,Cricetidae,Myodes rufocanus, Hokkaido,Orthohantavirus puumalaense,Yes,old,2008,AB675463.1,AB676848.1,AB712372.1,Yes,"Kariwa et al. (1995), Zhang et al. (2007), Dekonenko et al. (2003)"
+Rodentia,Cricetidae,Peromyscus beatae,Huitzilac ,Orthohantavirus carrizalense,Yes,new,2006,AB620106.1,AB620107.1,AB620108.1,Yes,Kariwa et al. (2012) Saasa et al. (2012)
+Rodentia,Cricetidae,Reithrodontomys megalotis, Huitzilac ,Orthohantavirus carrizalense,Yes,new,2006,AB620106.1,AB620107.1,AB620108.1,Yes,"Hjelle et al. (1994, 1995a), Kariwa et al. (2012)"
+Rodentia,Cricetidae,Microtus californicus, Isla Vista,other orthohantavirus,No,new,1994,U31535.1,U31533.1,,Yes,"Song et al. (1995), Turell et al. (1995)"
+Rodentia,Cricetidae,Peromyscus californicus,Isla Vista ,other orthohantavirus,No,new,1994,U31535.1,U31533.1,,Yes,"Song et al. (1995), Luis et al. (2010)"
+Rodentia,Cricetidae,Akodon montensis, Jabora ,Orthohantavirus andesense,Yes,new,2007,EF495338.1,,,Yes,"Chu et al. (2006), Goodin et al. (2009), Raboni et al. (2009, 2012), Araujo et al. (2011), de Oliveira et al. (2011), Guterres et al. (2014)"
+Rodentia,Cricetidae,Akodon paranaensis, Jabora,Orthohantavirus andesense,Yes,new,2007,EF495338.1,,,Yes,"de Oliveira et al. (2012), Raboni et al. (2012), Guterres et al. (2014)"
+Rodentia,Cricetidae,Akodon serrensis,Jabora,Orthohantavirus andesense,Yes,new,2007,EF495338.1,,,Yes,Raboni et al. (2012)
+Rodentia,Cricetidae,Akodon cursor,Juquitiba,Orthohantavirus andesense,Yes,new,2001,AY963900.1,,,Yes,Padula et al. (2007)
+Rodentia,Cricetidae,Akodon montensis, Juquitiba,Orthohantavirus andesense,Yes,new,2001,AY963900.1,,,Yes,"Chu et al. (2006), Goodin et al. (2009), Raboni et al. (2009, 2012), Araujo et al. (2011), de Oliveira et al. (2011), Guterres et al. (2014)"
+Rodentia,Cricetidae,Akodon paranaensis, Juquitiba,Orthohantavirus andesense,Yes,new,2001,AY963900.1,,,Yes,"de Oliveira et al. (2012), Raboni et al. (2012), Guterres et al. (2014)"
+Rodentia,Cricetidae,Necromys lasiurus, Juquitiba,Orthohantavirus andesense,Yes,new,2001,AY963900.1,,,Yes,"Johnson et al. (1999), Suzuki et al. (2004), Figueiredo et al. (2009)"
+Rodentia,Cricetidae,Oligoryzomys fornesi, Juquitiba,Orthohantavirus andesense,Yes,new,2001,AY963900.1,,,Yes,"Rosa et al. (2005), Chu et al. (2009), Guterres et al. (2014)"
+Rodentia,Cricetidae,Oligoryzomys nigripes, Juquitiba,Orthohantavirus andesense,Yes,new,2001,AY963900.1,,,Yes,"Vasconcelos et al. (1997), Chu et al. (2003), Suzuki et al. (2004), Raboni et al. (2005), (2009), Padula et al. (2007), Delfraro et al. (2008), Vadell et al. (2011), de Araujo et al. (2012)"
+Rodentia,Cricetidae,Oligoryzomys stramineus,Juquitiba,Orthohantavirus andesense,Yes,new,2001,AY963900.1,,,Yes,Figueiredo et al. (2009)
+Rodentia,Cricetidae,Oxymycterus nasutus,Juquitiba-like,Orthohantavirus andesense,Yes,new,,AY963900.1,,,Yes,Delfraro et al. (2008)
+Rodentia,Cricetidae,Oxymycterus quaestor, Juquitiba,Orthohantavirus andesense,Yes,new,2001,AY963900.1,,,Yes,"Raboni et al. (2012), Guterres et al. (2014)"
+Rodentia,Muridae,Rattus tanezumi, Jurong,other orthohantavirus,No,old,2005,GQ274940.1,GQ274938.1,GQ274936.1,Yes,"Chin et al. (2000)m, Plyusnina et al. (2009b), Johansson et al. (2010), Blasdell et al. (2011)"
+Rodentia,Cricetidae,Microtus fortis,Khabarovsk,Orthohantavirus khabarovskense,Yes,old,2011,KJ857342.1,KJ857338.1,KJ857321.1,Yes,"Hörling et al. (1996), Kariwa et al. (1999), Zou et al. (2008)"
+Rodentia,Cricetidae,Microtus maximowiczii,Khabarovsk,Orthohantavirus khabarovskense,Yes,old,2011,KJ857342.1,KJ857338.1,KJ857321.1,Yes,Zou et al. (2008)
+Rodentia,Cricetidae,Microtus oeconomus,Khabarovsk,Orthohantavirus khabarovskense,Yes,old,2011,KJ857342.1,KJ857338.1,KJ857321.1,Yes,"Plyusnina et al. (2008b), Luis et al. (2013)"
+Rodentia,Muridae,Apodemus agrarius, Kurkino,Orthohantavirus dobravaense,Yes,old,2009,GQ303582.1,,,Yes,"Lee et al. (1978, 1982a, b), Plyusnin et al. (1997, 2003), Nemirov et al. (1999), Klempa et al. (2003b), Sironen et al. (2005), Plyusnin et al. (2006), Jakab et al. (2007), Li et al. (2007), Schlegel et al. (2009), Liu et al. (2012), Klempa et al. (2013)"
+Rodentia,Cricetidae,Akodon simulator,Laguna Negra,Orthohantavirus negraense,No,new,1995,AF005727.1,AF005728.1,,Yes,Levis et al. (2004)
+Rodentia,Cricetidae,Calomys callidus,Laguna Negra,Orthohantavirus negraense,No,new,1995,AF005727.1,AF005728.1,,Yes,Travassos da Rosa et al. (2012)
+Rodentia,Cricetidae,Calomys callosus,Laguna Negra,Orthohantavirus negraense,No,new,1995,AF005727.1,AF005728.1,,Yes,"Levis et al. (2004), Carroll et al. (2005)"
+Rodentia,Cricetidae,Calomys laucha,Laguna Negra,Orthohantavirus negraense,No,new,1995,AF005727.1,AF005728.1,,Yes,Johnson et al. (1997)
+Rodentia,Muridae,Mus musculus, Leakey(Hantaan),other orthohantavirus,No,old,,,U00469,,Yes,"Baek et al. (1988), Arthur et al. (1992) Childs et al. (1994), Weidmann et al. (2005), Jiang et al. (2008)"
+Rodentia,Cricetidae,Oligoryzomys flavescens, Lechiguanas,Orthohantavirus andesense,Yes,new,1992,AF482714.1,AF028022.1,,Yes,"Levis et al. (1998), Gonzalez Della Valle et al. (2002), Delfraro et al. (2003)"
+Rodentia,Cricetidae,Oligoryzomys fulvescens, Lechiguanas,Orthohantavirus andesense,Yes,new,1992,AF482714.1,AF028022.1,,Yes,"Levis et al. 1997, Vincent et al. (2000), Enria et al. (2001), Delfraro et al. (2003), Fulhorst et al. (2004), Salazar-Bravo et al. (2004), Armién et al. (2009), Hanson et al. (2011), de Thoisy et al. (2014), González-Ittig et al. (2014)"
+Rodentia,Cricetidae,Oligoryzomys nigripes,Lechiguanas,Orthohantavirus andesense,Yes,new,1992,AF482714.1,AF028022.1,,Yes,"Vasconcelos et al. (1997), Chu et al. (2003), Suzuki et al. (2004), Raboni et al. (2005), (2009), Padula et al. (2007), Delfraro et al. (2008), Vadell et al. (2011), de Araujo et al. (2012)"
+Rodentia,Cricetidae,Peromyscus boylii,Limestone Canyon,other orthohantavirus,No,new,2019,OR148902.1,OR148903.1,OR148904.1,Yes,"Childs et al. (1994), Sanchez et al. (2001)"
+Rodentia,Cricetidae,Peromyscus hylocetes,Limestone Canyon,other orthohantavirus,No,new,2019,OR148902.1,OR148903.1,OR148904.1,Yes,Milazzo et al. (2012)
+Rodentia,Cricetidae,Peromyscus levipes,Limestone Canyon,other orthohantavirus,No,new,2019,OR148902.1,OR148903.1,OR148904.1,Yes,Milazzo et al. (2012)
+Rodentia,Cricetidae,Peromyscus melanotis,Limestone Canyon,other orthohantavirus,No,new,2019,OR148902.1,OR148903.1,OR148904.1,Yes,Milazzo et al. (2012)
+Rodentia,Cricetidae,Peromyscus ochraventer,Limestone Canyon,other orthohantavirus,No,new,2019,OR148902.1,OR148903.1,OR148904.1,Yes,Milazzo et al. (2012)
+Rodentia,Cricetidae,Peromyscus spicilegus,Limestone Canyon,other orthohantavirus,No,new,2019,OR148902.1,OR148903.1,OR148904.1,Yes,Milazzo et al. (2012)
+Rodentia,Cricetidae,Eothenomys miletus,Luxi,Orthohantavirus luxiense,Yes,old,2009,HM756286.1,HM756287.1,HQ404253.1,Yes,Zhang et al. (2011)
+Rodentia,Cricetidae,Necromys benefactus,Maciel,Orthohantavirus andesense,Yes,new,1997,AF482716.1,,,Yes,"Levis et al. (1998), Bohlman et al. (2002)"
+Rodentia,Cricetidae,Oligoryzomys fulvescens, Maporal ,Orthohantavirus maporalense,Yes,new,1997,AY267347.1,AY363179.1,EU788002.1,Yes,"Levis et al. 1997, Vincent et al. (2000), Enria et al. (2001), Delfraro et al. (2003), Fulhorst et al. (2004), Salazar-Bravo et al. (2004), Armién et al. (2009), Hanson et al. (2011), de Thoisy et al. (2014), González-Ittig et al. (2014)"
+Rodentia,Cricetidae,Sigmodon alstoni, Maporal,Orthohantavirus maporalense,Yes,new,1997,AY267347.1,AY363179.1,EU788002.1,Yes,"Fulhorst et al. (1997), Milazzo et al. (2010)"
+Rodentia,Cricetidae,Oligoryzomys fulvescens, Maripa,Orthohantavirus mamorense,Yes,new,2009,JQ611712.1,JQ611714.1,JQ611713.1,Yes,"Levis et al. 1997, Vincent et al. (2000), Enria et al. (2001), Delfraro et al. (2003), Fulhorst et al. (2004), Salazar-Bravo et al. (2004), Armién et al. (2009), Hanson et al. (2011), de Thoisy et al. (2014), González-Ittig et al. (2014)"
+Rodentia,Cricetidae,Zygodontomys brevicauda, Maripa ,Orthohantavirus mamorense,Yes,new,2009,JQ611712.1,JQ611714.1,JQ611713.1,Yes,"Vincent et al. (2000) Salazar-Bravo et al. (2004), Armién et al. (2009) Londoño et al. (2011)j, de Thoisy et al. (2014)"
+Rodentia,Cricetidae,Peromyscus leucopus, Monongahela,Orthohantavirus sinnombreense,No,new,1997,MH539867.1,MH539866.1,MH539865.1,Yes,"Hjelle et al. (1995c), Morzunov et al. (1998), Rhodes et al. (2000), Kariwa et al. (2007), Milazzo et al. (2012)"
+Rodentia,Cricetidae,Peromyscus maniculatus, Monongahela,Orthohantavirus sinnombreense,No,new,1997,MH539867.1,MH539866.1,MH539865.1,Yes,"Childs et al. (1994), Schmaljohn et al. (1995), Rawlings et al. (1996), Song et al. (1996), Drebot et al. (2001), Sinclair et al. (2007)"
+Rodentia,Cricetidae,Peromyscus aztecus,Montano,Orthohantavirus montanoense,Yes,new,2006,AB620100.1,AB620101.1,AB620102.1,Yes,Saasa et al. (2012)
+Rodentia,Cricetidae,Peromyscus beatae, Montano,Orthohantavirus montanoense,Yes,new,2006,AB620100.1,AB620101.1,AB620102.1,Yes,Kariwa et al. (2012) Saasa et al. (2012)
+Rodentia,Cricetidae,Myodes regulus,Muju,Orthohantavirus puumalaense,Yes,old,2011,JX028273.1,JX028272.1,JX028271.1,Yes,Song et al. (2007a)
+Rodentia,Cricetidae,Sigmodon hispidus, Muleshoe,other orthohantavirus,No,new,2016,KX066124.1,KX066125.1,,Yes,"Ravkov et al. (1995), Rollin et al. (1995), Rawlings et al. (1996), Torrez-Martinez et al. (1998)"
+Rodentia,Cricetidae,Zygodontomys brevicauda, Necoli,Orthohantavirus necocliense,No,new,2011,KF481954.1,KF494345.1,KF735065.1,Yes,"Vincent et al. (2000) Salazar-Bravo et al. (2004), Armién et al. (2009) Londoño et al. (2011)j, de Thoisy et al. (2014)"
+Rodentia,Cricetidae,Oligoryzomys chacoensis, Neembucu,Orthohantavirus andesense,Yes,new,1996,DQ345763.1,,,Yes,"Levis et al. (1997, 1998, 2004), Gonzalez Della Valle et al. (2002),Chu et al. (2003)"
+Rodentia,Cricetidae,Peromyscus leucopus, New York ,Orthohantavirus sinnombreense,Yes,new,1994,U36801.1,U36801.1,U09488.1,Yes,"Hjelle et al. (1995c), Morzunov et al. (1998), Rhodes et al. (2000), Kariwa et al. (2007), Milazzo et al. (2012)"
+Rodentia,Cricetidae,Akodon azarae,Pergamino,Orthohantavirus andesense,Yes,new,1997,AF482717.1,,,Yes,Levis et al. (1998) Bohlman et al. (2002)
+Rodentia,Cricetidae,Oryzomys couesi, Playa de Oro,other orthohantavirus,No,new,2004,EF534079.1,EF534080.1,,Yes,"Milazzo et al. (2006), Chu et al. (2008)"
+Rodentia,Cricetidae,Sigmodon mascotensis,Playa de Oro,other orthohantavirus,No,new,2004,EF534079.1,EF534080.1,,Yes,Chu et al. (2008)
+Rodentia,Cricetidae,Microtus montanus, Prospect Hill,Orthohantavirus prospectense,Yes,new,1985,Z49098.1,X55129.1,EF646763.1,Yes,Rowe et al. (1995)
+Rodentia,Cricetidae,Microtus pennsylvanicus,Prospect Hill,Orthohantavirus prospectense,Yes,new,1985,Z49098.1,X55129.1,EF646763.1,Yes,Lee et al. (1985)
+Rodentia,Cricetidae,Peromyscus boylii, Prospect Hill ,Orthohantavirus prospectense,Yes,new,1985,Z49098.1,X55129.1,EF646763.1,Yes,"Childs et al. (1994), Sanchez et al. (2001)"
+Rodentia,Cricetidae,Peromyscus maniculatus, Prospect Hill ,Orthohantavirus prospectense,Yes,new,1985,Z49098.1,X55129.1,EF646763.1,Yes,"Childs et al. (1994), Schmaljohn et al. (1995), Rawlings et al. (1996), Song et al. (1996), Drebot et al. (2001), Sinclair et al. (2007)"
+Rodentia,Cricetidae,Peromyscus truei,Prospect Hill ,Orthohantavirus prospectense,Yes,new,1985,Z49098.1,X55129.1,EF646763.1,Yes,"Childs et al. (1994), Hjelle et al. (1996)"
+Rodentia,Muridae,Mus musculus, Prospect Hill,Orthohantavirus prospectense,Yes,new,1985,Z49098.1,X55129.1,EF646763.1,Yes,"Baek et al. (1988), Arthur et al. (1992) Childs et al. (1994), Weidmann et al. (2005), Jiang et al. (2008)"
+Rodentia,Sciuridae,Tamias dorsalis,Prospect Hill ,Orthohantavirus prospectense,Yes,new,1985,Z49098.1,X55129.1,EF646763.1,Yes,Childs et al. (1994)
+Rodentia,Sciuridae,Tamias quadrivittatus,Prospect Hill,Orthohantavirus prospectense,Yes,new,1985,Z49098.1,X55129.1,EF646763.1,Yes,Childs et al. (1994)
+Rodentia,Cricetidae,Myodes glareolus,Puumala,Orthohantavirus puumalaense,Yes,old,1981,X61035.1,X61034.1,Z66548.1,Yes,"Brummer-Korvenkontio et al. (1980), Lundkvist et al. (1998), Aberle et al. (1999), Schilling et al. (2007), Plyusnina et al. (2009a), Razzauti et al. (2009)"
+Rodentia,Cricetidae,Myodes rufocanus,Puumala,Orthohantavirus puumalaense,Yes,old,1981,X61035.1,X61034.1,Z66548.1,Yes,"Kariwa et al. (1995), Zhang et al. (2007), Dekonenko et al. (2003)"
+Rodentia,Cricetidae,Myodes rufocanus, Puumala-like ,Orthohantavirus puumalaense,Yes,old,2002,EF442087.1,EF442093.1,EF442094.1,Yes,"Kariwa et al. (1995), Zhang et al. (2007), Dekonenko et al. (2003)"
+Rodentia,Cricetidae,Ondatra zibethicus,Puumala-like,Orthohantavirus puumalaense,Yes,old,2002,EF442087.1,EF442093.1,EF442094.1,Yes,Vahlenkamp et al. (1998)
+Rodentia,Cricetidae,Calomys callosus, Rio Mamore,Orthohantavirus mamorense,Yes,new,1996,FJ532244.1,FJ608550.1,FJ809772.1,Yes,"Levis et al. (2004), Carroll et al. (2005)"
+Rodentia,Cricetidae,Oligoryzomys microtis,Rio Mamore,Orthohantavirus mamorense,Yes,new,1996,FJ532244.1,FJ608550.1,FJ809772.1,Yes,"Bharadwaj et al. (1997), Powers et al. (1999), Carroll et al. (2005)"
+Rodentia,Cricetidae,Oligoryzomys sp.,Rio Mamoré,Orthohantavirus mamorense,Yes,new,,FJ532244.1,FJ608550.1,FJ809772.1,Yes,"Rocha et al. (2011), Firth et al. (2012)"
+Rodentia,Cricetidae,Holochilus sciureus,Rio Mearim,Orthohantavirus mamorense,Yes,new,2000,DQ451828.1,,,Yes,Rosa et al. (2005)
+Rodentia,Cricetidae,Peromyscus mexicanus,Rio Segundo,other orthohantavirus,No,new,1989,U18100.1,,,Yes,Salazar-Bravo et al. (2004)
+Rodentia,Cricetidae,Reithrodontomys creper,Rio Segundo,other orthohantavirus,No,new,1989,U18100.1,,,Yes,Salazar-Bravo et al. (2004)
+Rodentia,Cricetidae,Reithrodontomys mexicanus,Rio Segundo,other orthohantavirus,No,new,1989,U18100.1,,,Yes,"Hjelle et al. (1995a), Salazar-Bravo et al. (2004)"
+Rodentia,Cricetidae,Reithrodontomys sumichrasti, Rio Segundo,other orthohantavirus,No,new,1989,U18100.1,,,Yes,"Salazar-Bravo et al. (2004), Kariwa et al. (2012)"
+Rodentia,Cricetidae,Sigmodon hirsutus,S. hirsutus-associated hantavirus,other orthohantavirus,No,new,,,,,Yes,"Armie ´n et al. (2009), Luis et al. (2010)"
+Rodentia,Muridae,Apodemus agrarius, Saaremaa ,Orthohantavirus dobravaense,No,old,2000,AJ616854.1,GQ303581.1,AJ410618.2,Yes,"Lee et al. (1978, 1982a, b), Plyusnin et al. (1997, 2003), Nemirov et al. (1999), Klempa et al. (2003b), Sironen et al. (2005), Plyusnin et al. (2006), Jakab et al. (2007), Li et al. (2007), Schlegel et al. (2009), Liu et al. (2012), Klempa et al. (2013)"
+Rodentia,Muridae,Hylomyscus alleni,Sangassou,Orthohantavirus sangassouense,Yes,new,2004,JQ082300.1,JQ082301.1,JQ082302.1,Yes,"Klempa et al. (2006), (2012)"
+Rodentia,Cricetidae,Cricetulus barabensis,Seoul,Orthohantavirus seoulense,Yes,old,2003,AY273791.1,S47716.1,X56492.1,Yes,"Wang et al. (2000), Li et al. (2007)"
+Rodentia,Cricetidae,Cricetulus barabensis,Seoul-like,Orthohantavirus seoulense,Yes,old,,AY273791.1,S47716.1,X56492.1,Yes,"Wang et al. (2000), Li et al. (2007)"
+Rodentia,Muridae,Apodemus agrarius, Seoul,Orthohantavirus seoulense,Yes,old,2003,AY273791.1,S47716.1,X56492.1,Yes,"Lee et al. (1978, 1982a, b), Plyusnin et al. (1997, 2003), Nemirov et al. (1999), Klempa et al. (2003b), Sironen et al. (2005), Plyusnin et al. (2006), Jakab et al. (2007), Li et al. (2007), Schlegel et al. (2009), Liu et al. (2012), Klempa et al. (2013)"
+Rodentia,Muridae,Mus musculus, Seoul ,Orthohantavirus seoulense,Yes,old,2003,AY273791.1,S47716.1,X56492.1,Yes,"Baek et al. (1988), Arthur et al. (1992) Childs et al. (1994), Weidmann et al. (2005), Jiang et al. (2008)"
+Rodentia,Muridae,Rattus argentiventer,Seoul,Orthohantavirus seoulense,Yes,old,2003,AY273791.1,S47716.1,X56492.1,Yes,"Huong et al. (2010), Cuong et al. (2015)"
+Rodentia,Muridae,Rattus losea,Seoul,Orthohantavirus seoulense,Yes,old,2003,AY273791.1,S47716.1,X56492.1,Yes,"Elwell et al. (1985), Zhang et al. (2010)"
+Rodentia,Muridae,Rattus norvegicus, Seoul ,Orthohantavirus seoulense,Yes,old,2003,AY273791.1,S47716.1,X56492.1,Yes,"Lee et al. (1982a, b, c), Tsai et al. (1985), Reynes et al. (2003), Heyman et al. (2004, 2009) Plyusnina et al. (2004), Fernández et al. (2008), Luis et al. (2010), Luan et al. (2012), Jameson et al. (2013), Cross et al. (2014), Dupinay et al. (2014), Verner-Carlsson et al. (2015)"
+Rodentia,Muridae,Rattus rattus, Seoul ,Orthohantavirus seoulense,Yes,old,2003,AY273791.1,S47716.1,X56492.1,Yes,"Elwell et al. (1985) Wang et al. (2000), Reynes et al. (2003, 2014), Medina et al. (2009), Johansson et al. (2010), Luis et al. (2010), Zhang et al. (2007), (2010)"
+Rodentia,Muridae,Rattus tanezumi, Seoul,Orthohantavirus seoulense,Yes,old,2003,AY273791.1,S47716.1,X56492.1,Yes,"Chin et al. (2000)m, Plyusnina et al. (2009b), Johansson et al. (2010), Blasdell et al. (2011)"
+Rodentia,Muridae,Rattus tanezumi, Serang ,Orthohantavirus thailandense,Yes,old,2008,AM998808.2,AM998807.1,AM998806.1,Yes,"Chin et al. (2000)m, Plyusnina et al. (2009b), Johansson et al. (2010), Blasdell et al. (2011)"
+Rodentia,Cricetidae,Neotoma lepida,Sin Nombre,Orthohantavirus sinnombreense,Yes,new,1994,L25784.1,L25783.1,L37901.1,Yes,Dearing et al. (1998)
+Rodentia,Cricetidae,Peromyscus boylii, Sin Nombre,Orthohantavirus sinnombreense,Yes,new,1994,L25784.1,L25783.1,L37901.1,Yes,"Childs et al. (1994), Sanchez et al. (2001)"
+Rodentia,Cricetidae,Peromyscus californicus, Sin Nombre,Orthohantavirus sinnombreense,Yes,new,1994,L25784.1,L25783.1,L37901.1,Yes,"Song et al. (1995), Luis et al. (2010)"
+Rodentia,Cricetidae,Peromyscus eremicus,Sin Nombre,Orthohantavirus sinnombreense,Yes,new,1994,L25784.1,L25783.1,L37901.1,Yes,Milazzo et al. (2012)
+Rodentia,Cricetidae,Peromyscus leucopus, Sin Nombre,Orthohantavirus sinnombreense,Yes,new,1994,L25784.1,L25783.1,L37901.1,Yes,"Hjelle et al. (1995c), Morzunov et al. (1998), Rhodes et al. (2000), Kariwa et al. (2007), Milazzo et al. (2012)"
+Rodentia,Cricetidae,Peromyscus maniculatus, Sin Nombre,Orthohantavirus sinnombreense,Yes,new,1994,L25784.1,L25783.1,L37901.1,Yes,"Childs et al. (1994), Schmaljohn et al. (1995), Rawlings et al. (1996), Song et al. (1996), Drebot et al. (2001), Sinclair et al. (2007)"
+Rodentia,Cricetidae,Peromyscus truei, Sin Nombre,Orthohantavirus sinnombreense,Yes,new,1994,L25784.1,L25783.1,L37901.1,Yes,"Childs et al. (1994), Hjelle et al. (1996)"
+Rodentia,Cricetidae,Reithrodontomys megalotis, Sin Nombre,Orthohantavirus sinnombreense,Yes,new,1994,L25784.1,L25783.1,L37901.1,Yes,"Hjelle et al. (1994, 1995a), Kariwa et al. (2012)"
+Rodentia,Muridae,Mus musculus, Sin Nombre,Orthohantavirus sinnombreense,Yes,new,1994,L25784.1,L25783.1,L37901.1,Yes,"Baek et al. (1988), Arthur et al. (1992) Childs et al. (1994), Weidmann et al. (2005), Jiang et al. (2008)"
+Rodentia,Sciuridae,Tamias dorsalis, Sin Nombre,Orthohantavirus sinnombreense,Yes,new,1994,L25784.1,L25783.1,L37901.1,Yes,Childs et al. (1994)
+Rodentia,Muridae,Apodemus ponticus, Sochi,Orthohantavirus dobravaense,No,old,2000,EU188449.1,EU188450.1,JF920148.1,Yes,"Klempa et al. (2008), Dzagurova et al. (2012)"
+Rodentia,Muridae,Apodemus peninsulae, Soochong,Orthohantavirus hantanense,No,old,1997,AY675350.1,DQ056293.1,AY675354.1,Yes,"Yashina et al. (2000, 2001), Baek et al. (2006), Jiang et al. (2007)"
+Rodentia,Muridae,Rattus norvegicus,Tchoupitoulas,Orthohantavirus seoulense,No,old,1985,AF329389.1,,,Yes,"Lee et al. (1982a, b, c), Tsai et al. (1985), Reynes et al. (2003), Heyman et al. (2004, 2009) Plyusnina et al. (2004), Fernández et al. (2008), Luis et al. (2010), Luan et al. (2012), Jameson et al. (2013), Cross et al. (2014), Dupinay et al. (2014), Verner-Carlsson et al. (2015)"
+Rodentia,Muridae,Bandicota indica,Thailand,Orthohantavirus thailandense,Yes,old,2015,MZ343360.1,MZ343361.1,MZ343362.1,Yes,"Elwell et al. (1985), Xiao et al. (1994)"
+Rodentia,Muridae,Rattus rattus,Thailand,Orthohantavirus thailandense,Yes,old,2015,MZ343360.1,MZ343361.1,MZ343362.1,Yes,"Elwell et al. (1985) Wang et al. (2000), Reynes et al. (2003, 2014), Medina et al. (2009), Johansson et al. (2010), Luis et al. (2010), Zhang et al. (2007), (2010)"
+Rodentia,Muridae,Stenocephalemys albipes,Tigray,Orthohantavirus tigrayense,Yes,old,2010,KU934010.1,KU934009.1,KU934008.1,Yes,Meheretu et al. (2012)
+Rodentia,Cricetidae,Lemmus sibiricus,Topografov,Orthohantavirus khabarovskense,Yes,old,1994,AJ011646.1,AJ011647.1,AJ011649.1,Yes,Vapalahti et al. (1999)
+Rodentia,Cricetidae,Lagurus lagurus,Tula,Orthohantavirus tulaense,Yes,old,,Z49915.1,Z69993.1,AJ005637.1,Yes,"Plyusnina et al. (2008a, b)"
+Rodentia,Cricetidae,Microtus agrestis,Tula,Orthohantavirus tulaense,Yes,old,,Z49915.1,Z69993.1,AJ005637.1,Yes,"Scharninghausen et al. (2002), Schmidt-Chanasit et al. (2010)"
+Rodentia,Cricetidae,Microtus arvalis,Tula,Orthohantavirus tulaense,Yes,old,,Z49915.1,Z69993.1,AJ005637.1,Yes,"Plyusnin et al. (1994, 1995), Sibold et al. (1995), Heyman et al. (2002), Klempa et al. (2003a), Scharninghausen et al. (2002), Song et al. (2004), Plyusnina et al. (2008a), Reusken et al. (2008), Schmidt et al. (2014)"
+Rodentia,Cricetidae,Microtus arvalis, Tula-Malacky,Orthohantavirus tulaense,Yes,old,,Z49915.2,Z69993.2,AJ005637.2,Yes,"Plyusnin et al. (1994, 1995), Sibold et al. (1995), Heyman et al. (2002), Klempa et al. (2003a), Scharninghausen et al. (2002), Song et al. (2004), Plyusnina et al. (2008a), Reusken et al. (2008), Schmidt et al. (2014)"
+Rodentia,Cricetidae,Microtus gregalis,Tula,Orthohantavirus tulaense,Yes,old,,Z49915.1,Z69993.1,AJ005637.1,Yes,Plyusnina et al. (2008a)
+Rodentia,Cricetidae,Microtus levis,Tula,Orthohantavirus tulaense,Yes,old,,Z49915.1,Z69993.1,AJ005637.1,Yes,Plyusnin et al. (1994)
+Rodentia,Cricetidae,Microtus subterraneus,Tula,Orthohantavirus tulaense,Yes,old,,Z49915.1,Z69993.1,AJ005637.1,Yes,Song et al. (2002)
+Rodentia,Cricetidae,Microtus fortis, Vladivostok ,Orthohantavirus khabarovskense,Yes,old,1995,AB011630.1,,,Yes,"Hörling et al. (1996), Kariwa et al. (1999), Zou et al. (2008)"
+Rodentia,Cricetidae,Microtus fortis, Yuanjiang,other orthohantavirus,No,old,,,KJ857333.1,KJ857316.1,Yes,"Hörling et al. (1996), Kariwa et al. (1999), Zou et al. (2008)"
+Eulipotyphla,Talpidae,Talpa europaea,Bruges,Orthohantavirus brugesense,Yes,old,2013,KX551960.1,KX551961.1,KX551962.1,No,Laenen et al. 2017 
+Eulipotyphla,Soricidae,Sorex araneus,Altai ,other orthohantavirus,No,old,2018,MK340902.1,MK340903.1,MT648514.1,Yes,"Song et al. (2007b), Kang et al. (2009b, c),Yashina et al. (2010), Schlegel et al. (2012), Weiss et al. (2012), Gu et al. (2013a)"
+Eulipotyphla,Soricidae,Sorex caecutiens,Amga,other orthohantavirus,No,old,2010,,KF974359.1,KF974360.1,Yes,"Weiss et al. (2012), Yanagihara et al. (2014)"
+Eulipotyphla,Soricidae,Sorex caecutiens, Artybash ,Orthohantavirus artybashense,Yes,old,2007,MN815798.1,EU424340.2,EU424339.1,Yes,"Weiss et al. (2012), Yanagihara et al. (2014)"
+Eulipotyphla,Talpidae,Urotrichus talpoides,Asama,Orthohantavirus asamaense,Yes,old,2008,EU929072.1,EU929075.1,,Yes,Arai et al. (2008b)
+Eulipotyphla,Soricidae,Sorex cinereus,Ash River,other orthohantavirus,No,new,1983,KY962807.1,KY962808.1,,Yes,Aria et al. (2008a)
+Eulipotyphla,Soricidae,Sorex minutus,Asikkala ,Orthohantavirus asikkalaense,Yes,old,2010,KC880341.1,KC880344.1,KC880347.1,Yes,"Heyman et al. (2011a), Schlegel et al. (2012), Gu et al. (2013a), Radosa et al. (2013)"
+Eulipotyphla,Soricidae,Crocidura obscurior,Azagny,other orthohantavirus,No,old,2009,JF276226.1,JF276227.1,JF276228.1,Yes,Kang et al. (2011b)
+Eulipotyphla,Soricidae,Neomys fodiens,Boginia ,other orthohantavirus,No,old,2010,,JX990966.1,JX990965.1,Yes,"Heyman et al. (2011b), Gu et al. (2013a)"
+Eulipotyphla,Soricidae,Crocidura douceti,Bowe,Orthohantavirus boweense,Yes,old,2012,KC631782.1,KC631783.1,KC631784.1,Yes,Gu et al. (2013b)
+Eulipotyphla,Soricidae,Blarina brevicauda,Camp Ripley,other orthohantavirus,No,new,1982,KF958463.1,KF958467.1,KF958465.1,Yes,Arai et al. (2007)
+Eulipotyphla,Soricidae,Anourosorex squamipes,Cao Bang ,Orthohantavirus caobangense,Yes,old,2006,EF543524.1,EF543526.1,EF543525.2,Yes,"Guo et al. (2013), Song et al. (2007c)"
+Eulipotyphla,Talpidae,Scaptonyx fusicaudus,Dahonggou Creek,other orthohantavirus,No,old,1989,,,HQ616595.2,Yes,Yanagihara et al. (2014)
+Eulipotyphla,Soricidae,Sorex palustris,Fox Creek,other orthohantavirus,No,new,,,,,Yes,"Arai et al. (2007), Kang et al. (2009b)"
+Eulipotyphla,Soricidae,Blarina carolinensis,Iamonia,other orthohantavirus,No,new,,,,,Yes,Arai et al. (2007)
+Eulipotyphla,Soricidae,Crocidura shantungensis,Jeju,Orthohantavirus jejuense,Yes,old,2010,HQ834695.1,HQ834696.1,HQ834697.1,Yes,Arai et al. (2012)
+Eulipotyphla,Soricidae,Sorex monticolus,Jemez Springs,other orthohantavirus,No,new,2005,FJ686862.1,MK992753.1,FJ593501.1,Yes,Arai et al. (2008a)
+Eulipotyphla,Soricidae,Sorex roboratus,Kenkeme,Orthohantavirus kenkemeense,Yes,old,2011,KJ857341.1,KJ857337.1,KJ857320.1,Yes,Kang et al. (2010)
+Eulipotyphla,Soricidae,Myosorex geata,Tanzania,other orthohantavirus,No,old,,JX193698.1,JX193699.1,JX193700.1,Yes,Yanagihara et al. (2014)
+Eulipotyphla,Soricidae,Myosorex zinki,Tanzania,other orthohantavirus,No,old,,JX193698.1,JX193699.1,JX193700.1,Yes,Yanagihara et al. (2014)
+Eulipotyphla,Soricidae,Neomys fodiens, Laihia,Orthohantavirus seewisense,No,old,2005,KJ136611.1,,,Yes,"Heyman et al. (2011b), Gu et al. (2013a)"
+Eulipotyphla,Soricidae,Anourosorex squamipes, Lianghe,Orthohantavirus caobangense,Yes,old,2011,JX465411.1,JX465395.1,JX465377.1,Yes,"Guo et al. (2013), Song et al. (2007c)"
+Eulipotyphla,Talpidae,Neurotrichus gibbsii,Oxbow,Orthohantavirus oxbowense,No,new,2003,FJ539166.1,FJ539167.1,FJ593497.1,Yes,Kang et al. (2009a)
+Eulipotyphla,Soricidae,Sorex cylindricauda,Quiandao Lake ,other orthohantavirus,No,old,2005,GU566023.1,GU566022.1,GU566021.1,Yes,"Yanagihara et al. (2014), Zuo et al. (2014)"
+Eulipotyphla,Talpidae,Scalopus aquaticus,Rockport,Orthohantavirus rockportense,Yes,new,1986,HM015223.1,HM015219.1,HM015221.1,Yes,Kang et al. (2011a)
+Eulipotyphla,Soricidae,Sorex unguiculatus,Sarufutsu,other orthohantavirus,No,old,2006,KF700097.1,,,Yes,Yanagihara et al. (2014)
+Eulipotyphla,Soricidae,Sorex araneus, Seewis,Orthohantavirus seewisense,No,old,2006,EF636024.1,KY651022.1,EF636026.1,Yes,"Song et al. (2007b), Kang et al. (2009b, c),Yashina et al. (2010), Schlegel et al. (2012), Weiss et al. (2012), Gu et al. (2013a)"
+Eulipotyphla,Soricidae,Sorex daphaenodon,Seewis,Orthohantavirus seewisense,No,old,2006,EF636024.1,KY651022.1,EF636026.1,Yes,Yashina et al. (2010)
+Eulipotyphla,Soricidae,Sorex minutus, Seewis,Orthohantavirus seewisense,No,old,2006,EF636024.1,KY651022.1,EF636026.1,Yes,"Heyman et al. (2011a), Schlegel et al. (2012), Gu et al. (2013a), Radosa et al. (2013)"
+Eulipotyphla,Soricidae,Sorex tundrensis,Seewis,Orthohantavirus seewisense,No,old,2006,EF636024.1,KY651022.1,EF636026.1,Yes,Yashina et al. (2010)
+Eulipotyphla,Soricidae,Crocidura theresae,Tanganya,other orthohantavirus,No,old,2000,EF050455.1,,EF050454.1,Yes,Klempa et al. (2007)
+Eulipotyphla,Soricidae,Anourosorex yamashinai,Xinyi,other orthohantavirus,No,old,1989,KT901298.1,KT901297.1,KF705679.1,Yes,Yanagihara et al. (2014)
+Eulipotyphla,Soricidae,Sorex isodon,Yakeshi,Orthohantavirus yakeshiense,No,old,2006,JX465423.1,JX465403.1,,Yes,Guo et al. (2013)

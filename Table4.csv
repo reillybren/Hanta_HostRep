@@ -1,0 +1,23 @@
+﻿Table S4,,,
+Dataset,Model,marginal_lnL_SS,marginal_lnL_PS
+NSO,Strict,-5741.762,-5742.539
+NSO,UCLN,-5740.388,-5740.179
+NSO,RLC,-5742.777,-5742.645
+MEO,Strict,-9558.277,-9558.599
+MEO,UCLN,-9540.133,-9541.601
+MEO,RLC,-9541.999,-9541.8
+Full,Strict,-18246.11,-18244.33
+Full,UCLN,-18217.25,-18212.24
+Full,RLC,-18218.27,-18212.94
+,,,
+Dataset,Comparison,lnBF_SS,Preferred model
+NSO,UCLN vs Strict,1.374,UCLN
+NSO,RLC vs Strict,-1.015,Strict
+NSO,UCLN vs RLC,2.389,UCLN
+MEO,UCLN vs Strict,18.144,UCLN
+MEO,RLC vs Strict,16.278,RLC
+MEO,UCLN vs RLC,1.866,UCLN
+Full,UCLN vs Strict,28.86,UCLN
+Full,RLC vs Strict,27.84,RLC
+Full,UCLN vs RLC,1.02,UCLN
+,,,
