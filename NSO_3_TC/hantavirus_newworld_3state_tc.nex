@@ -1,0 +1,39 @@
+#NEXUS
+
+Begin data;
+Dimensions ntax=31 nchar=22;
+Format datatype=Standard symbols="012" missing=? gap=-;
+Matrix
+bermejo                       2000000000000000000000
+neembucu                      2000000000000000000000
+lechiguanas                   2000000000000000000000
+araucaria                     2000010010000000000000
+oran                          2000000000000000000000
+andes                         2000101000000010000000
+araquara-like                 1000001200000000011111
+maciel                        0000000200000000000000
+pergamino                     0000020000000000000000
+maripa                        2001000000000000000000
+rio_mamore                    2000100000000000000000
+alto_paraguay                 0200000000000000000000
+laguna_negra                  0000210000000000000000
+maporal                       2000000001000000000000
+necoli                        0002000000000000000000
+cano_delgadito                0000000002000000000000
+choclo                        2001000000000000000000
+muleshoe                      0000000002000000000000
+ozark                         0000000002000000000000
+bayou                         0020000001000000000000
+black_creek_canal             0000000002000000000000
+playa_de_oro                  0020000001000000000000
+convict_creek                 0000000000200100100000
+sin_nombre                    0000000000211001100000
+monongahela                   0000000000200000000000
+carrizal                      0000000000120000000000
+huitzilac                     0000000000120000000000
+el_moro_canyon                0000000000121100000000
+rio_segundo                   0000000000120000000000
+limestone_canyon              0000000000200000000000
+montano                       0000000000200000000000
+;
+End;
