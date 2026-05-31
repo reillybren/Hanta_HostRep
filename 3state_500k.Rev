@@ -1,0 +1,131 @@
+#!/usr/bin/rb
+
+# Chain/run id for parallel runs
+if (!exists("chain_id")) chain_id = 1
+out_str = "newworld_tc_3state_500k.chain" + chain_id
+seed(chain_id)
+
+# New World subset - 3-state model
+
+# Filenames
+phy_host_fn = "data/host_genera_vertlife_tc.tree"
+phy_parasite_fn = "data/hantavirus_newworld_tc.clean.tree"
+dat_parasite_fn = "data/hantavirus_newworld_3state_tc.nex"
+
+# Read data
+
+dat_parasite <- readDiscreteCharacterData(dat_parasite_fn)
+phy_parasite <- readTrees(phy_parasite_fn)[1]
+phy_host <- readTrees(phy_host_fn)[1]
+
+# Dimensions
+n_host_tips <- phy_host.ntips()
+n_sites <- dat_parasite.nchar()
+n_parasite_branches <- 2 * phy_parasite.ntips() - 2
+
+# Output
+# out_str = "newworld_subset_3state"  # removed (duplicate out_str)
+out_fn = "output/" + out_str
+
+# Moves and monitors
+moves = VectorMoves()
+monitors = VectorMonitors()
+
+# Transition rates (0->1, 1->0, 1->2, 2->1)
+switch_rates_pos ~ dnDirichlet( [1,1,1,1] )
+switch_rates_pos.setValue( simplex(5,50,25,20) )  # starting values to aid initialization
+moves.append( mvSimplex(switch_rates_pos, alpha=10, weight=2, tune=false) )
+
+switch_rate_0_to_1 := switch_rates_pos[1]
+switch_rate_0_to_2 := 0.
+switch_rate_1_to_0 := switch_rates_pos[2]
+switch_rate_1_to_2 := switch_rates_pos[3]
+switch_rate_2_to_0 := 0.
+switch_rate_2_to_1 := switch_rates_pos[4]
+
+switch_rates := v( switch_rate_0_to_1, switch_rate_0_to_2, switch_rate_1_to_0,
+                   switch_rate_1_to_2, switch_rate_2_to_0, switch_rate_2_to_1 )
+
+# Q for single character
+Q_char := fnFreeK( transition_rates=switch_rates, rescaled=false )
+
+# Host-phylogeny rate modifier
+beta[1] ~ dnExp(1)
+beta[1].setValue(0.3)  # starting value to aid initialization
+beta[2] := beta[1]
+
+moves.append( mvScale( beta[1], weight=1 ) )
+
+rate_modifiers[1] := fnHostSwitchRateModifier(tree=phy_host, gainScale=beta)
+
+# Q for all hosts
+Q_host := fnRateGeneratorSequence(Q=Q_char,
+                                  numChars=n_host_tips,
+                                  rateModifiers=rate_modifiers)
+
+# Overall rate (mu)
+mu ~ dnExp(10)
+mu.setValue(0.01)  # starting value to aid initialization
+moves.append( mvScale(mu, weight=2) )
+
+# Root frequencies
+rf_host <- simplex(1,1,1)
+
+# CTMC for data-augmented histories
+m_host ~ dnPhyloCTMCDASequence(tree=phy_parasite,
+                               Q=Q_host,
+                               branchRates=mu,
+                               rootFrequencies=rf_host,
+                               nSites=n_host_tips,
+                               type="Standard")
+
+# Attach observed tip data to the DA-CTMC
+if (!exists("tip_data_method")) tip_data_method = "setValue"
+print("checkpoint: before tip-data attach (" + tip_data_method + ")")
+if (tip_data_method == "setValue") {
+    m_host.setValue(dat_parasite)
+} else {
+    m_host.clamp(dat_parasite)
+}
+print("checkpoint: after tip-data attach")
+
+# Character history moves
+moves.append( mvCharacterHistory(ctmc=m_host,
+                                 qmap_seq=Q_host,
+                                 lambda=0.2,
+                                 graph="branch",
+                                 proposal="rejection",
+                                 weight=n_parasite_branches*2) )
+
+moves.append( mvCharacterHistory(ctmc=m_host,
+                                 qmap_seq=Q_host,
+                                 lambda=0.2,
+                                 graph="node",
+                                 proposal="rejection",
+                                 weight=n_parasite_branches) )
+
+# MCMC setup
+n_gen= 500000
+sample_freq=50
+
+# Monitors
+monitors.append( mnScreen(mu, beta, printgen=sample_freq) )
+monitors.append( mnModel(printgen=sample_freq, filename=out_fn + ".log") )
+monitors.append( mnFile( phy_parasite, filename=out_fn + ".tre", printgen=sample_freq) )
+monitors.append( mnCharacterHistorySummary( filename=out_fn + ".history.txt",
+                                            ctmc=m_host,
+                                            tree=phy_parasite,
+                                            printgen=sample_freq ) )
+
+
+# Model + MCMC
+print("checkpoint: before model()")
+model = model(m_host)
+print("checkpoint: after model()")
+ch = mcmc(model, monitors, moves)
+
+# Run
+print("checkpoint: before run")
+ch.run(n_gen)
+ch.operatorSummary()
+print("checkpoint: after run")
